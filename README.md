@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text="헤더입니다"&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=default&color=auto&height=20&section=header&text=헤더입니다&fontSize=20)
 
 
 
@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungchung234)](https://github.com/chungchung234/github-readme-stats)
 
 [![Solved.ac
-chungchung234](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+a12812](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 
