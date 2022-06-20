@@ -12,4 +12,4 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=cyan&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
