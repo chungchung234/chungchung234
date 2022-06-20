@@ -1,7 +1,5 @@
 
-<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungchung234)](https://github.com/chungchung234/github-readme-stats
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungchung234)](https://github.com/chungchung234/github-readme-stats)
 
