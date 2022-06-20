@@ -1,9 +1,6 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungchung234&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungchung234&show_icons=true&theme=dark)
 <div></div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungchung234)](https://github.com/chungchung234/chungchung234)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungchung234&langs_count=10&layout=compact&theme=dark)](https://github.com/chungchung234/chungchung234)
 
