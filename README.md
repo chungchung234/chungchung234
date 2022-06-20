@@ -2,7 +2,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungchung234&show_icons=true&theme=radical)
 <div></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungchung234)](https://github.com/chungchung234/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungchung234)](https://github.com/chungchung234/chungchung234)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungchung234&langs_count=10&layout=compact&theme=dark)](https://github.com/chungchung234/chungchung234)
 
 <div></div>
 🔧개발중 프로필 사이트 : https://chungchung234.github.io/No_Regret/
