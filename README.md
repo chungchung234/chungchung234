@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungchung234&show_icons=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungchung234&langs_count=10&layout=compact&theme=dark)
 <br>
-🔧개발중 프로필 사이트 : https://chungchung234.github.io/life-without-regretsss/
+🔧개발중 프로필 사이트 : ~~https://chungchung234.github.io/life-without-regretsss/~~
 <br>
 :books:개인 공부 및 스케줄 노션 : https://chungchung.notion.site/CHUNG-blog-b9b146cc6bd94759b5c88d6c3db3a429
 <br>
