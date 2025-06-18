@@ -1,10 +1,26 @@
+<h2 align="center">✨ 이충현 (ChungHyun Lee) ✨</h2>
+<p align="center">
+  <strong>Backend Developer | Java · Spring Boot · AWS · Kafka</strong>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungchung234&show_icons=true&theme=dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungchung234&langs_count=10&layout=compact&theme=dark)
-<br>
-🔧개발중 프로필 사이트 : ~~https://chungchung234.github.io/life-without-regretsss/~~
-<br>
+---
 
-:books:개인 공부 및 스케줄 노션 : https://chungchung.notion.site/CHUNG-blog-b9b146cc6bd94759b5c88d6c3db3a429
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) 
+### ⚙️ Technologies & Tools
 
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+### 💡 Recent Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chungchung234&theme=dark&hide_border=true)
+
+---
+
+### 📫 Reach Me Out
+- 📧 **Email**: a8207637@naver.com
+- 🐙 **GitHub**: [chungchung234](https://github.com/chungchung234)
