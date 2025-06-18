@@ -17,9 +17,7 @@
 ---
 
 ### 💡 Recent Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chungchung234&theme=dark&hide_border=true)
-
----
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chungchung234)](https://git.io/streak-stats)
 
 ### 📫 Reach Me Out
 - 📧 **Email**: a8207637@naver.com
