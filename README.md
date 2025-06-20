@@ -17,7 +17,7 @@
 ---
 
 ### 💡 Recent Activity
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chungchung234)](https://git.io/streak-stats)
+https://github.com/chungchung234/cover_letter/tree/main
 
 ### 📫 Reach Me Out
 - 📧 **Email**: a8207637@naver.com
