@@ -2,7 +2,6 @@
 <p align="center">
   <strong>Backend Developer | Java · Spring Boot · AWS · Kafka</strong>
 </p>
-
 ---
 
 ### ⚙️ Technologies & Tools
