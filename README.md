@@ -13,7 +13,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ---
-
 ### 💡 Recent Activity
 https://github.com/chungchung234/cover_letter/tree/main
 
