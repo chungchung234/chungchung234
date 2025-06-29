@@ -16,6 +16,7 @@
 ### 💡 Recent Activity
 https://github.com/chungchung234/cover_letter/tree/main
 
+
 ### 📫 Reach Me Out
 - 📧 **Email**: a8207637@naver.com
 - 🐙 **GitHub**: [chungchung234](https://github.com/chungchung234)
