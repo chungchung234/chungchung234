@@ -14,8 +14,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ---
 ### 💡 Recent Activity
-https://github.com/chungchung234/cover_letter/tree/main
-
+https://chungchung.notion.site/AI-22214919d1df80eea8d1c164efa54ed2?source=copy_link
 
 ### 📫 Reach Me Out
 - 📧 **Email**: a8207637@naver.com
