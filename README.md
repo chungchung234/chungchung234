@@ -11,6 +11,7 @@
 
 ### 💡 Recent Activity
 - MCP 서버 개발 반복 작업 효율화 공부 : https://chungchung.notion.site/AI-22214919d1df80eea8d1c164efa54ed2?source=copy_link <br/>
+- Codex 분석 : https://github.com/chungchung234/cover_letter <br/>
 - 스프링 슬랙 연동 : https://chungchung.notion.site/Slack-with-Spring-boot-1-e053f64974c34eee9882d2543939a9e3?source=copy_link <br/>
 - Spring RESTful API 프로젝트 구성 요소 정리표 : https://chungchung.notion.site/Spring-RESTful-API-22414919d1df8093ab3eec2febcef00c?source=copy_link <br/>
 - 롯데 개발 환경 분석 : https://chungchung.notion.site/e-1837e65d44384ebaa535cead49a580d0?source=copy_link <br/>
