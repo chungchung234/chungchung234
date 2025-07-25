@@ -5,7 +5,6 @@
 
 ### ⚙️ Technologies & Tools
 
-
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
