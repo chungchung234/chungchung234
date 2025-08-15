@@ -21,7 +21,6 @@
 ### 📗 책/강의
 https://chungchung.notion.site/ab8f3beec44344ef876805c1b3c84fb1?source=copy_link
 
-
 ### 📫 Reach Me Out
 - 📧 **Email**: a8207637@naver.com
 - 🐙 **GitHub**: [chungchung234](https://github.com/chungchung234)
