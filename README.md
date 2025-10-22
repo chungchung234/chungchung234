@@ -1,8 +1,7 @@
 <h2 align="center">✨ 이충현 (ChungHyun Lee) ✨</h2>
 <p align="center">
-  <strong>Backend Developer | Java · Spring Boot · AWS </strong>
+  <strong>Backend Developer | Java · Spring Boot · RDB </strong>
 </p>
-
 
 ### ⚙️ Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=openjdk&logoColor=white)
