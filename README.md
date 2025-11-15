@@ -9,6 +9,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
+
 ### 💡 Recent Activity
 - MCP 서버 개발 반복 작업 효율화 공부 : https://chungchung.notion.site/AI-22214919d1df80eea8d1c164efa54ed2?source=copy_link <br/>
 - Codex 분석 : https://github.com/chungchung234/cover_letter <br/>
