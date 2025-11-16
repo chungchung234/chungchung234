@@ -3,7 +3,6 @@
   <strong>Backend Developer | Java · Spring Boot · RDB </strong>
 </p>
 
-
 ### ⚙️ Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
